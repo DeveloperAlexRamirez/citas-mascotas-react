@@ -6,5 +6,4 @@ npm install
 ```
 
 ## Ver aplicación
-https://optimistic-tesla-e1cae9.netlify.app/
-
+https://administrador-pacientes-alex.netlify.app/
